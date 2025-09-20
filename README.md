@@ -14,6 +14,10 @@ File Browser provides a file managing interface within a specified directory and
 
 Documentation on how to install, configure, and contribute to this project is hosted at [filebrowser.org](https://filebrowser.org).
 
+### Quick Start with Docker
+
+For a beginner-friendly guide on deploying File Browser with Docker, see our [Docker Deployment Guide](DOCKER_DEPLOYMENT_GUIDE.md).
+
 ## Project Status
 
 > [!WARNING]
